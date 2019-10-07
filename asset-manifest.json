@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mattermost-themes/static/css/main.34de6062.chunk.css",
+    "main.js": "/mattermost-themes/static/js/main.be5173b8.chunk.js",
+    "main.js.map": "/mattermost-themes/static/js/main.be5173b8.chunk.js.map",
+    "runtime-main.js": "/mattermost-themes/static/js/runtime-main.b59d1f09.js",
+    "runtime-main.js.map": "/mattermost-themes/static/js/runtime-main.b59d1f09.js.map",
+    "static/css/2.bf9b5a30.chunk.css": "/mattermost-themes/static/css/2.bf9b5a30.chunk.css",
+    "static/js/2.9e503b33.chunk.js": "/mattermost-themes/static/js/2.9e503b33.chunk.js",
+    "static/js/2.9e503b33.chunk.js.map": "/mattermost-themes/static/js/2.9e503b33.chunk.js.map",
+    "index.html": "/mattermost-themes/index.html",
+    "precache-manifest.a48cfc57c3470e7dbc811cf9481f1b6e.js": "/mattermost-themes/precache-manifest.a48cfc57c3470e7dbc811cf9481f1b6e.js",
+    "service-worker.js": "/mattermost-themes/service-worker.js",
+    "static/css/2.bf9b5a30.chunk.css.map": "/mattermost-themes/static/css/2.bf9b5a30.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/mattermost-themes/static/css/main.34de6062.chunk.css.map",
+    "static/media/slick-theme.css": "/mattermost-themes/static/media/slick.f97e3bbf.svg"
+  }
+}
